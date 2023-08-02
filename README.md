@@ -1,6 +1,6 @@
 # A study concerning Earthquake Predictions using Machine Learning Algorithms.
 
-This project was performed by me independently based on my Major project titled "Earthquake predictions using machine-learning techniques" for research and study purpose .
+This project  based on my Major project titled "Earthquake predictions using machine-learning techniques" was created  for research and study purposes only .
 
 
 <h2>Abstract </h2>
